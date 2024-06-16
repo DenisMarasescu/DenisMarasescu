@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DenisMarasescu
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Ruby On Rails
+- 👀 I’m interested in Web Development and AI
+- 🌱 I’m currently learning quantum computing
 - 💞️ I’m looking to collaborate on any type of web project
 - 📫 How to reach me: An email at denimara62@gmail.com
 
